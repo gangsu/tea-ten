@@ -1,0 +1,16 @@
+{
+  "name": "tea-ten",
+  "version": "1.0.0",
+  "description": "tea tenten",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "change-tea": "^1.0.0",
+    "change-yourself": "^1.0.0",
+    "ethers": "^5.7.2"
+  }
+}
